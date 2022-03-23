@@ -1,0 +1,25 @@
+---
+- name: 1
+  color: FFFFFFFF
+  overview: pve-containers
+  bracket: brackets-all
+
+- name: 2
+  color: FFFF6666
+  overview: pve-extra-loot
+  bracket: brackets-all
+
+- name: 3
+  color: FF66CCFF
+  overview: pve-large_collidables
+  bracket: brackets-all
+
+- name: 4
+  color: FFFD96CF
+  overview: pve-mining
+  bracket: brackets-all
+
+- name: 5
+  color: FFFD96CF
+  overview: pve-npc
+  bracket: brackets-all

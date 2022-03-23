@@ -1,0 +1,11 @@
+---
+name: logistics
+symbol: <color=0xFF66CCFF>✯ friendly ✯</color>
+level: 3
+groups:
+  - common-pvp
+  - _ship-logistics
+  - _ship-logistics_frigate
+  - _ship-force_auxiliary
+states:
+  - friendly

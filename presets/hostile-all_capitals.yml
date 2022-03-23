@@ -1,0 +1,11 @@
+---
+name: all capitals
+symbol: <color=0xFFFF6666>✜ hostile ✜</color>
+level: 3
+groups:
+  - common-pvp
+  # - common-minimal-ships
+  - ships-capitals
+  - ships-super_capitals
+states:
+  - hostile

@@ -1,0 +1,10 @@
+---
+name: npc
+symbol: <color=0xFFFD96CF>❖ PVE ❖</color>
+level: 3
+groups:
+  - common-pve
+  - rats
+  - _celestial-agents_in_space
+states:
+  - hostile

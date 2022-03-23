@@ -1,0 +1,8 @@
+---
+name: all
+symbol: <color=0xFFCCCCCC>〔BRACKETS〕</color>
+level: 3
+groups:
+  - all
+states:
+  - all

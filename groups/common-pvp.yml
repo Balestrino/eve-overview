@@ -1,0 +1,7 @@
+---
+include:
+  - common-minimal
+  # - _celestial-sun
+  # - _deployable
+  # - gates
+  # - _station

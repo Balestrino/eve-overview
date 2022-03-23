@@ -1,0 +1,10 @@
+---
+name: Gates
+symbol: <color=0xFFFFFFFF>✈ TRAVEL ✈</color>
+level: 3
+groups:
+  - common-minimal
+  - gates
+  # - _station
+states:
+  - all

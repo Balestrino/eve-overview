@@ -1,0 +1,9 @@
+---
+name: all ships
+symbol: <color=0xFF66CCFF>✯ friendly ✯</color>
+level: 3
+groups:
+  - common-pvp
+  - _ship
+states:
+  - friendly

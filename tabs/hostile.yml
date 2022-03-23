@@ -1,0 +1,25 @@
+---
+- name: 1
+  color: FFFFFFFF
+  overview: hostile-all_capitals
+  bracket: brackets-hostile
+
+- name: 2
+  color: FFFF6666
+  overview: hostile-interdictors
+  bracket: brackets-hostile
+
+- name: 3
+  color: FF66CCFF
+  overview: hostile-logistics
+  bracket: brackets-hostile
+
+- name: 4
+  color: FFFD96CF
+  overview: hostile-subcapitals
+  bracket: brackets-hostile
+
+- name: 5
+  color: FFFD96CF
+  overview: hostile-tackle
+  bracket: brackets-hostile

@@ -1,0 +1,9 @@
+---
+name: sub-capitals
+symbol: <color=0xFF66CCFF>✯ friendly ✯</color>
+level: 3
+groups:
+  - common-pvp
+  - ships-subcapitals
+states:
+  - friendly

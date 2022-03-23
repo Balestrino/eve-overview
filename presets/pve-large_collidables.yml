@@ -1,0 +1,9 @@
+---
+name: large collidables
+symbol: <color=0xFFFD96CF>❖ PVE ❖</color>
+level: 3
+groups:
+  - common-minimal
+  - large_collidables
+states:
+  - all

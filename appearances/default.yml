@@ -1,0 +1,94 @@
+---
+flagOrder:
+  - 13
+  - 44
+  - 52
+  - 11
+  - 12
+  - 14
+  - 15
+  - 16
+  - 45
+  - 9
+  - 51
+  - 50
+  - 19
+  - 18
+  - 49
+  - 10
+  - 53
+  - 66
+  - 17
+  - 48
+  - 21
+  - 20
+
+flagStates:
+  - 9
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 21
+  - 44
+  - 45
+  - 48
+  - 49
+  - 50
+  - 51
+  - 52
+  - 53
+  - 66
+
+backgroundOrder:
+  - 13
+  - 44
+  - 52
+  - 11
+  - 12
+  - 14
+  - 15
+  - 16
+  - 45
+  - 9
+  - 51
+  - 50
+  - 19
+  - 18
+  - 49
+  - 10
+  - 53
+  - 66
+  - 17
+  - 48
+  - 21
+  - 20
+
+backgroundStates: []
+
+stateBlinks:
+  - - background_13
+    - true
+  - - background_44
+    - true
+  - - flag_13
+    - true
+  - - flag_44
+    - true
+  - - flag_50
+    - true
+  - - flag_51
+    - true
+  - - flag_52
+    - true
+  - - flag_9
+    - true
+
+stateColorsNameList:
+  - - flag_13
+    - red

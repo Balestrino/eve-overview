@@ -1,0 +1,16 @@
+---
+name: ship,drone,wreck
+symbol: <color=0xFF66FF66>DSCAN</color>
+level: 3
+groups:
+  - common-pvp
+  - _ship
+  - drones-combat
+  - drones-fighters
+  - drones-noncombat
+  - _celestial-wreck
+  # - gates
+  # - _celestial-force_field
+  # - _celestial-planet
+states:
+  - hostile

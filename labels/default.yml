@@ -1,0 +1,127 @@
+---
+shipLabelOrder:
+  - ship type
+  - alliance
+  - corporation
+  - ship name
+  - null
+  - linebreak
+  - pilot name
+
+shipLabels:
+  - - null
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - ""
+      - - pre
+        - "["
+      - - state
+        - 0
+      - - type
+        - null
+      - - underline
+        - false
+  - - alliance
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - "&gt;"
+      - - pre
+        - "&lt;"
+      - - state
+        - 0
+      - - type
+        - alliance
+      - - underline
+        - false
+  - - corporation
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - "]"
+      - - pre
+        - "["
+      - - state
+        - 0
+      - - type
+        - corporation
+      - - underline
+        - false
+  - - pilot name
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - " "
+      - - pre
+        - " "
+      - - state
+        - 0
+      - - type
+        - pilot name
+      - - underline
+        - false
+  - - ship name
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - "'"
+      - - pre
+        - "'"
+      - - state
+        - 0
+      - - type
+        - ship name
+      - - underline
+        - false
+  - - ship type
+    - - - bold
+        - 1
+      - - color
+        - - 1.0
+          - 0.914
+          - 0.0
+      - - fontsize
+        - 12
+      - - italic
+        - false
+      - - post
+        - " "
+      - - pre
+        - ""
+      - - state
+        - 1
+      - - type
+        - ship type
+      - - underline
+        - false

@@ -1,0 +1,11 @@
+---
+appearance: default
+columns: default
+labels: default
+settings: default
+tabs:
+  - final
+  - hostile
+  - friendly
+  - pve
+  # - skirmish

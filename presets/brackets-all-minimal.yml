@@ -1,0 +1,11 @@
+---
+name: Only gates, beacons, bombs
+symbol: <color=0xFFCCCCCC>〔BRACKETS〕</color>
+level: 3
+groups:
+  - _celestial-sun
+  - beacons
+  - gates
+  - bombs
+states:
+  - all

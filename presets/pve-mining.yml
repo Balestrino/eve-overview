@@ -1,0 +1,13 @@
+---
+name: mining
+symbol: <color=0xFFFD96CF>❖ PVE ❖</color>
+level: 3
+groups:
+  - common-pve
+  - _asteroid
+  - _celestial-harvestable_cloud
+  - rats
+  - _ship
+  - _drone
+states:
+  - hostile

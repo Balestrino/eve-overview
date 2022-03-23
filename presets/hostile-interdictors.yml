@@ -1,0 +1,10 @@
+---
+name: interdictors
+symbol: <color=0xFFFF6666>✜ hostile ✜</color>
+level: 3
+groups:
+  - common-pvp
+  - _ship-heavy_interdiction_cruiser
+  - _ship-interdictor
+states:
+  - hostile

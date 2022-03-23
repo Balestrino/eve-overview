@@ -1,0 +1,40 @@
+---
+- name: <font size=14>✈</font>
+  color: FFFFFFFF
+  overview: travel-gates
+  bracket: brackets-all
+
+- name: <font size=13>✜ HOSTILE</font>
+  color: FFFF4444
+  overview: hostile-ships
+  bracket: brackets-hostile-nodrones
+
+- name: <font size=13>✜ TARGET</font>
+  color: FFFF6666
+  overview: hostile-drones
+  bracket: brackets-hostile
+
+- name: <font size=13>★ FRIENDLY</font>
+  color: FF66CCFF
+  overview: friendly-ships
+  bracket: brackets-all-minimal
+
+- name: <font size=13>❖ PVE</font>
+  color: FFFD96CF
+  overview: pve-npc
+  bracket: brackets-all
+
+- name: <font size=13>❖ AUX</font>
+  color: FFFD96CF
+  overview: pve-mining
+  bracket: brackets-all
+
+- name: <font size=13>1</font>
+  color: FFFD96CF
+  overview: travel-gates-stations
+  bracket: brackets-wartargets
+
+- name: <font size=13>2</font>
+  color: FFFD96CF
+  overview: dscan-ships
+  bracket: dscan-ship-drones-wreck

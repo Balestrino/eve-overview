@@ -1,0 +1,9 @@
+---
+name: all ships
+symbol: <color=0xFFFF6666>✜ hostile ✜</color>
+level: 3
+groups:
+  - common-pvp
+  - _ship
+states:
+  - hostile

@@ -1,0 +1,10 @@
+---
+name: logistics
+symbol: <color=0xFFFF6666>✜ hostile ✜</color>
+level: 3
+groups:
+  - common-pvp
+  - _ship-logistics
+  - _ship-logistics_frigate
+states:
+  - hostile

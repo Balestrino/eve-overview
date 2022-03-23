@@ -1,0 +1,15 @@
+---
+name: Gates, Stations, Structures
+symbol: <color=0xFFFFFFFF>✈ TRAVEL ✈</color>
+level: 3
+groups:
+  - common-minimal
+  - gates
+  - _station
+  - _structure
+  - _starbase
+  - _starbase-control_tower
+  - _sovereignty_structures
+  - platforms
+states:
+  - all
