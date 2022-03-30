@@ -2,10 +2,12 @@
 
 _Generate DRY modular overviews._
 
+ORIGINAL PROJECT - CREDITS TO RAZOR-X: (https://github.com/razor-x/eve-overview)
+
 [![Release](https://img.shields.io/github/release/razor-x/eve-overview.svg)](https://github.com/razor-x/eve-overview/releases)
 [![GitHub Actions](https://github.com/razor-x/eve-overview/workflows/main/badge.svg)](https://github.com/razor-x/eve-overview/actions)
 
-__Don't die on patch day because you missed adding that new ship-type to one of your presets!__
+**Don't die on patch day because you missed adding that new ship-type to one of your presets!**
 
 ## Description
 
@@ -32,11 +34,11 @@ into many files which can be reused to create custom overviews
 based on a set of common groups, presets, settings, etc.
 The modular design makes updating, sharing, and customizing simple.
 
-__Visit the [project site][EVE Online Overview Generator] for full documentation.__
+**Visit the [project site][eve online overview generator] for full documentation.**
 
 [![Donate ISK](https://img.shields.io/badge/Donate%20ISK-Leon%20Razor-blue.svg)](https://gate.eveonline.com/Profile/Leon%20Razor)
 
-[EVE Online Overview Generator]: https://io.evansosenko.com/eve-overview/
+[eve online overview generator]: https://io.evansosenko.com/eve-overview/
 
 ## Installation
 
@@ -51,7 +53,7 @@ Alternatively, clone or fork this project and build your own overviews.
 
 Ruby ≥ 2 with [Bundler](http://bundler.io/).
 
-[Bundler]: http://bundler.io/
+[bundler]: http://bundler.io/
 
 ## Usage
 

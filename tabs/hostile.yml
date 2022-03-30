@@ -2,24 +2,19 @@
 - name: 1
   color: FFFFFFFF
   overview: hostile-all_capitals
-  bracket: brackets-hostile
+  bracket: hostile-drones
 
 - name: 2
-  color: FFFF6666
+  color: FFFFFFFF
   overview: hostile-interdictors
-  bracket: brackets-hostile
+  bracket: hostile-ships
 
 - name: 3
-  color: FF66CCFF
+  color: FFFFFFFF
   overview: hostile-logistics
-  bracket: brackets-hostile
+  bracket: hostile-subcapitals
 
 - name: 4
-  color: FFFD96CF
-  overview: hostile-subcapitals
-  bracket: brackets-hostile
-
-- name: 5
-  color: FFFD96CF
+  color: FFFFFFFF
   overview: hostile-tackle
-  bracket: brackets-hostile
+  bracket: hostile-tackle

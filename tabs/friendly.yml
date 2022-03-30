@@ -2,14 +2,9 @@
 - name: 1
   color: FFFFFFFF
   overview: friendly-all_capitals
-  bracket: brackets-all
+  bracket: friendly-logistics
 
 - name: 2
   color: FFFF6666
-  overview: friendly-logistics
-  bracket: brackets-hostile
-
-- name: 3
-  color: FF66CCFF
-  overview: friendly-subcapitals
-  bracket: brackets-hostile
+  overview: friendly-ships
+  bracket: friendly-subcapitals

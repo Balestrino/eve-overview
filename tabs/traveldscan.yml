@@ -1,0 +1,15 @@
+---
+- name: 1
+  color: FFFFFFFF
+  overview: travel-gates
+  bracket: travel-gates-stations
+
+- name: 2
+  color: FFFFFFFF
+  overview: dscan-ships-drones-wrecks
+  bracket: dscan-ships-structures
+
+- name: 3
+  color: FFFFFFFF
+  overview: dscan-ships
+  bracket: dscan-ships_wrecks

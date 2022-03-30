@@ -5,6 +5,7 @@ level: 3
 groups:
   - common-minimal
   - gates
+  - _celestial-sun
   # - _station
 states:
   - all

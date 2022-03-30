@@ -8,6 +8,7 @@ groups:
   - _station
   - _structure
   - _starbase
+  - _celestial-sun
   - _starbase-control_tower
   - _sovereignty_structures
   - platforms

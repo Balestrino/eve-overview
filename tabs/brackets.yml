@@ -1,0 +1,15 @@
+---
+- name: 1
+  color: FFFFFFFF
+  overview: brackets-all-minimal
+  bracket: brackets-all
+
+- name: 2
+  color: FFFFFFFF
+  overview: brackets-friend_enemies
+  bracket: brackets-hostile-nodrones
+
+- name: 3
+  color: FFFFFFFF
+  overview: brackets-hostile
+  bracket: brackets-wartargets
