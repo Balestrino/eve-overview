@@ -5,11 +5,12 @@ level: 3
 groups:
   - common-pvp
   - _ship
+  - _celestial-abyssal-trace
   # - drones-combat
   # - drones-fighters
   # - drones-noncombat
   # - gates
-  # - _celestial-force_field
+  - _celestial-force_field
   # - _celestial-planet
 states:
   - hostile

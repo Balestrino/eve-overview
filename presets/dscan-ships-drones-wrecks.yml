@@ -5,6 +5,7 @@ level: 3
 groups:
   - common-pvp
   - _ship
+  - _celestial-abyssal-trace
   - drones-combat
   - drones-fighters
   - drones-noncombat

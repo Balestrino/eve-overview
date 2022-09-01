@@ -21,6 +21,6 @@ overviewColumns:
   - DISTANCE
   - ICON
   - NAME
-  - TAG
+  # - TAG
   - TYPE
   - VELOCITY
