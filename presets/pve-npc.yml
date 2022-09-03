@@ -6,6 +6,7 @@ groups:
   - gates
   - common-pve
   - rats
+  - beacons
   - _celestial-agents_in_space
 states:
   - hostile
