@@ -4,6 +4,7 @@ symbol: <color=0xFFFFFFFF>✈ TRAVEL ✈</color>
 level: 3
 groups:
   - common-minimal
+  - beacons
   - gates
   - _celestial-sun
   # - _station

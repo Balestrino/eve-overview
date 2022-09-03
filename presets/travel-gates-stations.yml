@@ -5,6 +5,7 @@ level: 3
 groups:
   - common-minimal
   - gates
+  - beacons
   - _station
   - _structure
   - _starbase
