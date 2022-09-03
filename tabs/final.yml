@@ -24,17 +24,17 @@
   overview: pve-npc
   bracket: brackets-all
 
-- name: <font size=13>❖ AUX</font>
+- name: <font size=13>❖ MINING</font>
   color: FFFD96CF
   overview: pve-mining
   bracket: brackets-all
 
-- name: <font size=13>1</font>
+- name: <font size=13>AUX</font>
   color: FFFD96CF
-  overview: travel-gates
-  bracket: brackets-wartargets
+  overview: pve-extra-loot
+  bracket: brackets-all
 
-- name: <font size=13>2</font>
+- name: <font size=13>DSCAN</font>
   color: FFFD96CF
-  overview: dscan-ships
-  bracket: dscan-ships-drones-wrecks
+  overview: dscan-ships-drones-wrecks
+  bracket: brackets-all
