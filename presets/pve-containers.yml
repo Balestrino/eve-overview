@@ -5,6 +5,7 @@ level: 3
 groups:
   - common-minimal
   - containers
+  - entities-◆
   # - _celestial-wreck
   # - _entity-precursor_cache
 states:

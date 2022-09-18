@@ -18,5 +18,6 @@ groups:
   - _starbase-control_tower
   - _sovereignty_structures
   - platforms
+  - entities-◆
 states:
   - hostile

@@ -9,5 +9,6 @@ groups:
   - rats
   - _ship
   - _drone
+  - entities-◆
 states:
   - hostile

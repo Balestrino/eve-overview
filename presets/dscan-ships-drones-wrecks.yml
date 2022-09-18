@@ -10,6 +10,7 @@ groups:
   - drones-fighters
   - drones-noncombat
   - _celestial-wreck
+  - entities-◆
   # - gates
   # - _celestial-force_field
   # - _celestial-planet

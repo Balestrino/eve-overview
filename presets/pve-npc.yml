@@ -8,5 +8,6 @@ groups:
   - rats
   - beacons
   - _celestial-agents_in_space
+  - entities-◆
 states:
   - hostile

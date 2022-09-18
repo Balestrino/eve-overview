@@ -5,5 +5,6 @@ level: 3
 groups:
   - common-minimal
   - large_collidables
+  - entities-◆
 states:
   - all

@@ -7,5 +7,6 @@ groups:
   - containers
   - _celestial-wreck
   - _entity-precursor_cache
+  - entities-◆
 states:
   - all
