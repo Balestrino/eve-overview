@@ -7,12 +7,17 @@
 - name: <font size=13>✜ HOSTILE</font>
   color: FFFF4444
   overview: hostile-ships
-  bracket: brackets-hostile-nodrones
+  bracket: brackets-hostile
 
 - name: <font size=13>✜ TARGETS</font>
   color: FFFF6666
   overview: hostile-drones
   bracket: brackets-hostile
+
+- name: <font size=13>★✜ MIX</font>
+  color: FFFD96CF
+  overview: hostile-friendly
+  bracket: brackets-all
 
 - name: <font size=13>★ FRIENDLY</font>
   color: FF66CCFF
@@ -22,11 +27,6 @@
 - name: <font size=13>❖ PVE</font>
   color: FFFD96CF
   overview: pve-npc
-  bracket: brackets-all
-
-- name: <font size=13>❖ MINING</font>
-  color: FFFD96CF
-  overview: pve-mining
   bracket: brackets-all
 
 - name: <font size=13>AUX</font>
