@@ -17,7 +17,7 @@ columnOrder:
 
 overviewColumns:
   - ALLIANCE
-  - ANGULARVELOCITY
+  # - ANGULARVELOCITY
   - DISTANCE
   - ICON
   - NAME
